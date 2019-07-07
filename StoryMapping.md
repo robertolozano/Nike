@@ -33,5 +33,5 @@ UI:
 2. UI has scores and all the objects.
 
 
-![](/https://github.com/ecs160ss12019/Nike/storyMap.jpg)
+![storyMap](https://github.com/ecs160ss12019/Nike/blob/master/storyMap.jpg)
 
