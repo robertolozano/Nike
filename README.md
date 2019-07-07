@@ -10,8 +10,14 @@ A link to [Story Mapping](https://github.com/ecs160ss12019/Nike/blob/master/Stor
 
 ## Team members
 
-Zhiyuan Guo    danielmonster
-Henry Yi    Henry-YiW
-Roberto Lozano    robertolozano
-Xuanchen Zhou    PathaChow
-Weili Yin    CharlesYWL
+*Format: Name, Github Username*
+
+Zhiyuan Guo,    danielmonster
+
+Henry Yi,    Henry-YiW
+
+Roberto Lozano,    robertolozano
+
+Xuanchen Zhou,    PathaChow
+
+Weili Yin,    CharlesYWL
