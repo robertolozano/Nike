@@ -32,3 +32,6 @@ UI:
 1. UI has a black universe background.
 2. UI has scores and all the objects.
 
+
+![](/https://github.com/ecs160ss12019/Nike/storyMap.jpg)
+
