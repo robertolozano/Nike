@@ -33,5 +33,5 @@ UI: (Zhiyuan Guo, Roberto Lozano)
 2. UI has scores and all the objects.
 
 
-![storyMap](https://github.com/ecs160ss12019/Nike/blob/master/storyMap.jpg)
+![storyMap](https://github.com/ecs160ss12019/Nike/blob/master/storyMap.png)
 
